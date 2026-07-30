@@ -43,7 +43,7 @@
     "@nestjs/typeorm": "^11.0.0",
     "@nestjs/websockets": "^11.1.14",
     "@sentry/node": "^10.37.0",
-    "@stellar/stellar-sdk": "^14.4.3",
+    "@stellar/stellar-sdk": "^16.2.0",
     "axios": "^1.13.3",
     "bcryptjs": "^3.0.3",
     "bull": "^4.15.1",
